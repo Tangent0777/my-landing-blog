@@ -1,8 +1,8 @@
 ---
-title: My First Post
+title: Title
 date: 2024-01-01T09:00:00.000Z
-author: Your Name
-excerpt: This is the short description shown on the blog listing page.
+author: Himanshu
+excerpt: meta description written here
 category: Technology
 draft: false
 ---
