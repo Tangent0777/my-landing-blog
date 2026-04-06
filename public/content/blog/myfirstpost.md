@@ -1,5 +1,6 @@
 ---
 title: Title
+coverImage: /images/uploads/cardmapr-nl-_1wmamjs7_a-unsplash.jpg
 date: 2024-01-01T09:00:00.000Z
 author: Himanshu
 excerpt: meta description written here
