@@ -153,7 +153,7 @@ export default function BlogCard({ post, featured = false }: BlogCardProps) {
         {/* Cover image — real if uploaded, fallback gradient if not */}
         <div
           style={{
-            height: featured ? "220px" : "160px",
+            height: "250px",
             position: "relative",
             overflow: "hidden",
             background: "linear-gradient(135deg, rgba(108,99,255,0.3) 0%, rgba(255,101,132,0.15) 100%)",
