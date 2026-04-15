@@ -1,5 +1,5 @@
 ---
-title: second blog
+title: This is our second Blog
 coverImage: /images/uploads/patrick-konior-6h1lr-avury-unsplash.jpg
 date: 2026-04-06T17:10:00.000+05:30
 author: HKs
